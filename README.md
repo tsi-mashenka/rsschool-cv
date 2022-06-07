@@ -1,1 +1,1 @@
-https://tsi-mashenka.github.io/rsschool-cv/cv
+https://tsi-mashenka.github.io/rsschool-cv/
