@@ -1,8 +1,19 @@
 # * ***Maryia Tsimashenka***
-### * *maria.tsimoshenko@gmail.com*
-### * *i'm perfect*
-### * *i don't know anyway*
+### * *Gomel, Belarus
+       Email: maria.tsimoshenko@gmail.com
+       Github: tsi-mashenka
+       Telegram: @mariatsimoshenko
+       Discord: tsi-mashenka#2646*
+### * *Programming is a completely new experience for me. I've started learning html and css and hope to get to JS soon. My main profession is related to music. I am a musicologist and teacher. My hobbies are astronomy and cycling.*
+### * *Inquisitiveness
+Diligence
+Flexible mind*
+### * *.cvmain {
+flex: 1 0 auto;
+background-color: #FDF5E6;
+}*
+### * *HTML for begginer (code-basics.com)
+CSS for begginer (code-basics.com)*
 ### * *nope*
-### * *nope*
-### * *nope*
-### * *nope*
+### * *St. Petersburg State Conservatory Rimsky-Korsakov*
+### * *Pre-intermediate*
